@@ -6,7 +6,7 @@ Este proyecto implementa un algoritmo genético para encontrar una solución apr
 
 Puedes descargar el archivo principal del proyecto directamente desde este repositorio:
 
-*   [descargar main.py](https://github.com/JoseCarlos00/sistemas-inteligentes/blob/main/main.py)
+*   [descargar]([https://github.com/JoseCarlos00/sistemas-inteligentes/blob/main/main.py](https://github.com/JoseCarlos00/sistemas-inteligentes/releases/download/v1.0.0/main.py))
 
 Simplemente haz clic en el enlace de arriba y tu navegador debería iniciar la descarga del archivo `main.py`. Alternativamente, si estás viendo esto en una plataforma como GitHub, puedes clonar el repositorio completo.
 
