@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt # type: ignore
 
 # Definición de las 5 ciudades (nodos) y sus coordenadas
 ciudades = {
-  'A': (0, 0),
-  'B': (10, 0),
-  'C': (5, 10),
-  'D': (15, 8),
-  'E': (8, 2)
+    'A': (0, 0),
+    'B': (10, 0),
+    'C': (5, 10),
+    'D': (15, 8),
+    'E': (8, 2)
 }
 
 distancias = {
